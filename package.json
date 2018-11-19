@@ -1,0 +1,24 @@
+{
+  "name": "landing-sikkerhet",
+  "version": "1.0.0",
+  "description": "A single page website layout for sensitive data management.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Travisg25/Sikkerhet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Travisg25/Sikkerhet/issues"
+  },
+  "homepage": "https://github.com/Travisg25/Sikkerhet",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
